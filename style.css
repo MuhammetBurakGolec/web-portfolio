@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    background-color: beige;
+    background-color: rgb(224, 224, 166);
 }
 section{
     height: 500px;
@@ -28,7 +28,7 @@ h1{
     font-size: 50px;
 }
 h1 span{
-    color: orange;
+    color: rgb(107, 0, 150);
 }
 .half-width img{
     width: 100%;
@@ -68,7 +68,7 @@ h2{
 }
 
 .experience-area h3{
-    color: orange;
+    color:  rgb(107, 0, 150);
 }
 
 .experience-area div{
@@ -77,13 +77,13 @@ h2{
 }
 #full-stack{
     border-left: 7px solid tomato;
-    background-color: blanchedalmond;
+    background-color: rgba(168, 133, 79, 0.637);
 }
 #baby-web{
     border-left: 7px solid;
     border-image: linear-gradient(blue 100%, cyan 100%);
     border-image-slice: 1;
-    background-color:blanchedalmond;
+    background-color:rgba(168, 133, 79, 0.637);
 }
 
 footer p{
